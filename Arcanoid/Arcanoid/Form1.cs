@@ -16,5 +16,10 @@ namespace Arcanoid
         {
             InitializeComponent();
         }
+
+        private void OnPaint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
